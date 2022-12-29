@@ -26,9 +26,9 @@ description: "- Workspace owner and DBA can now view audit logs. - Support CRUD 
 ## 🎠 Community
 - We have revamped our [GitHub README page](https://github.com/bytebase). Please do check it out!
 - Thanks to [@piglig](https://github.com/piglig) for the PRs：
-- refactor: remove unnecessary error checking [#3925](https://github.com/bytebase/bytebase/pull/3925)
-- docs: fix data model picture reference invalid [#3926](https://github.com/bytebase/bytebase/pull/3926)
-- refactor: remove in-effective break [#3943](https://github.com/bytebase/bytebase/pull/3943)
+  - refactor: remove unnecessary error checking [#3925](https://github.com/bytebase/bytebase/pull/3925)
+  - docs: fix data model picture reference invalid [#3926](https://github.com/bytebase/bytebase/pull/3926)
+  - refactor: remove in-effective break [#3943](https://github.com/bytebase/bytebase/pull/3943)
 
 ## 📰 Fresh off the press
 - Database change has long been the most critical step in a release. If you do it well, you are one step closer to [improving CI/CD efficiency](/blog/database-cicd-best-practice). 
